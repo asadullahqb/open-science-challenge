@@ -1,0 +1,3 @@
+Obtain -
+1. Data is satellite image .tiff file 
+2. 
